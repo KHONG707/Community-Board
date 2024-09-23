@@ -29,11 +29,7 @@ Here's a walkthrough of implemented required features:
 ![Kapture 2024-09-23 at 01 42 08](https://github.com/user-attachments/assets/8e8148ad-23c9-4b05-a36d-683be062f7b8)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with [Kap]
 
 
 ## License
