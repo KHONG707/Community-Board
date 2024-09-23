@@ -4,7 +4,7 @@ Submitted by: **Kristal Hong**
 
 This web app: **Provides links to help users learn more about software engineering**
 
-Time spent: **2** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
