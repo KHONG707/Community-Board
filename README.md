@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![Kapture 2024-09-23 at 01 42 08](https://github.com/user-attachments/assets/8e8148ad-23c9-4b05-a36d-683be062f7b8)
+![Kapture 2024-09-24 at 00 47 42](https://github.com/user-attachments/assets/1373091d-b9d5-4557-a3fb-4d59c0b98e6d)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [Kap]
